@@ -1,0 +1,5 @@
+Este proyecto automatiza un test básico del flujo de compra en una tienda online. Se seleccionan productos, se agregan al carrito y se completa el formulario con datos falsos generados automáticamente. El objetivo principal es validar que el proceso completo de compra funcione correctamente. La estructura del código está organizada con Page Object Model para facilitar el mantenimiento y futuras ampliaciones de pruebas.
+Aunque el producto se encuentra en una etapa muy temprana del desarrollo cuenta con varios issues:
+- El formulario no cuenta con validacion de datos.
+- Problemas de usabilidad.
+- Problemas de seguridad.

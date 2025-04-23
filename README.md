@@ -65,6 +65,12 @@ Ejecuta el test principal:
 ```bash
 pytest -v test/store/test_shopping.py
 ```
+Generar reporte:
+
+```bash
+pytest --html=reports/report.html
+```
+
 
 ## 📌 Notas
 
